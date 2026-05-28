@@ -5,7 +5,7 @@
 
 #include "pcb.h" // Incluye el archivo pcb.h la estructura de cada proceso
 
-#define MAX_PROCESSES 150 // Maximo de procesos en la cola
+#define MAX_PROCESSES 100 // Maximo de procesos en la cola
 
 // Estructura que almacena las métricas de un proceso
 // Nota: pid, arrival_time y burst_time son originales de pcb.h
