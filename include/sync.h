@@ -8,7 +8,7 @@
 #define N_CPUS 4	// Procesos ejecutandose al mismo tiempo
 #define QUANTUM 2   	// Tiempo maximo para proceso 
 
-#define TOTAL_PROCESSES 10 // Total de procesos a crear
+#define TOTAL_PROCESSES 25 // Total de procesos a crear
 
 //Variable declarada en otro archivo, indica si el sistema sigue funcionando
 
