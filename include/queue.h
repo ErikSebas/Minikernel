@@ -8,7 +8,7 @@
 #include <stdbool.h>   // Biblioteca para boolean
 #include "pcb.h"    
 
-#define MAX_PROCESSES 150 // Maximo de procesos en la cola
+#define MAX_PROCESSES 100 // Maximo de procesos en la cola
 
 // Estructura de la cola de procesos listos
 typedef struct {
