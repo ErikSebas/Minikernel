@@ -3,7 +3,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -Iinclude -lpthread
 SRC = src/main.c src/queue.c src/cpu.c src/metrics.c
-TARGET = minikernel
+TARGET = MiniKernel
 TEST = tests/test_main.c
 
 # Compila el proyecto completo
